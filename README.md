@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a student at Bates College currently studying abroad at LSE. I have a basic knowledge of python, and have been working on some data science projects for my courses. Below you can find some of the projects I have been working on recently. 
 <!--
 **j-quinn01/j-quinn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
